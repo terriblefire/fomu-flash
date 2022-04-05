@@ -22,8 +22,8 @@
 #define S_D1 S_MISO
 #define S_D2 S_WP
 #define S_D3 S_HOLD
-static unsigned int F_RESET = 27;
-#define F_DONE 17
+static unsigned int F_RESET = 18;
+#define F_DONE 23
 
 // #define DEBUG_ICE40_PATCH
 
